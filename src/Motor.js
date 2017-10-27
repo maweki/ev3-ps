@@ -15,7 +15,7 @@ exports.run = function(motor) {
     }
 };
 
-exports.run = function(motor) {
+exports.stop = function(motor) {
         motor.command = 'stop';
         return true;
 };
