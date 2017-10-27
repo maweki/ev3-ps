@@ -6,7 +6,7 @@ You should use `nvm` (https://github.com/creationix/nvm) to handle a local node 
 
 Install global dependencies `npm install -g bower pulp purs`.
 
-`cd` into the project directory and install local dependencies `npm install bluebird ev3dev-lang`.
+`cd` into the project directory and install local dependencies `npm install bluebird ev3dev-lang; bower install;`.
 
 Start working on the project.
 
