@@ -1,0 +1,19 @@
+{
+  "name": "ev3-frp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.0",
+    "purescript-console": "^3.0.0",
+    "purescript-lists": "^4.10.0",
+    "ev3dev-lang-js": "git://github.com/WasabiFan/ev3dev-lang-js.git#^1.0.0",
+    "purescript-functions": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
